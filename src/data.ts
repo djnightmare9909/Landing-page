@@ -24,6 +24,8 @@ export const projects = [
     title: 'Dungeon Master OS',
     url: 'https://dungeonmasteros.com/',
     description: 'A comprehensive operating system and toolkit for Dungeon Masters.',
+    disclaimer: 'Before entering Dungeon Master OS please be sure to make sure you have your own local model setup. Go to the Logbook at the top right of the page. Scroll all the way down to settings and input your API key or local set up environment.',
+    readmeLink: 'https://github.com/djnightmare9909/Dungeon-master-OS-WFGY/blob/main/README.md',
     icon: Terminal
   },
   {
