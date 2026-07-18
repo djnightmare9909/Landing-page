@@ -13,5 +13,5 @@ This project is built using modern web technologies to provide a fast, responsiv
 - **Icons:** [Lucide React](https://lucide.dev/)
 - **Animations:** [Motion](https://motion.dev/)
 - **Backend/Server:** Node.js with [Express](https://expressjs.com/) (when applicable)
-- **AI Integration:** Google GenAI SDK (`@google/genai`)
+
 
