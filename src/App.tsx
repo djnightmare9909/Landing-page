@@ -103,10 +103,9 @@ export default function App() {
                             {project.disclaimer}
                           </p>
                         </div>
-                        {/* @ts-expect-error readmeLink might not exist on all projects */}
                         {project.readmeLink && (
                           <a 
-                            href={/* @ts-expect-error */ project.readmeLink}
+                            href={project.readmeLink}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-flex items-center justify-between rounded bg-slate-900 border border-slate-700 px-3 py-2 text-slate-300 hover:text-white hover:bg-slate-800 hover:border-slate-600 transition-colors w-full cursor-pointer"

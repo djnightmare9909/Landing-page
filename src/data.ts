@@ -1,4 +1,4 @@
-import { Github, Youtube, Instagram, MessageCircle, Gamepad2, FileCode2, Music, Terminal, Code2 } from 'lucide-react';
+import { Github, Youtube, Instagram, MessageCircle, Gamepad2, FileCode2, Music, Terminal, Code2, MonitorPlay } from 'lucide-react';
 
 export const socialLinks = [
   { name: 'GitHub', url: 'https://github.com/djnightmare9909', icon: Github },
@@ -8,6 +8,12 @@ export const socialLinks = [
 ];
 
 export const projects = [
+  {
+    title: 'Milk Mirror',
+    url: 'https://djnightmare9909.github.io/MilkMirror-/',
+    description: 'Milk mirror is a text editor where the left side is a text editor and the right side is a milk drop visualizer allowing you to edit and play your milk drop files in real time.',
+    icon: MonitorPlay
+  },
   {
     title: 'Repo Extractor',
     url: 'https://djnightmare9909.github.io/Github-repo-extractor-/',
