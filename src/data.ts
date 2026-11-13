@@ -2,7 +2,7 @@ import { Github, Youtube, Instagram, MessageCircle, Gamepad2, FileCode2, Music, 
 
 export const socialLinks = [
   { name: 'GitHub', url: 'https://github.com/djnightmare9909', icon: Github },
-  { name: 'YouTube', url: 'https://youtube.com/@djnightmare1005', icon: Youtube },
+  { name: 'YouTube', url: 'https://youtube.com/@djnightmare9909', icon: Youtube },
   { name: 'Instagram', url: 'https://www.instagram.com/justinbrisson686?igsh=cTFlNGYza3czY3o0', icon: Instagram },
   { name: 'Reddit', url: 'https://www.reddit.com/u/autisticDeush/s/vkZLI6CNaL', icon: MessageCircle },
 ];
